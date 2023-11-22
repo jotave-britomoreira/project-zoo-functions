@@ -12,4 +12,4 @@ updateAnimal(): Atualiza as informações de um animal existente;
 
 deleteAnimal(): Exclui um animal;
 
-Para cada função, também deve ser implementado um teste unitário que verifique seu funcionamento.
+Para cada função, também foi implementado um teste unitário que verifica seu funcionamento.
