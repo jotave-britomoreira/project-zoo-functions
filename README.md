@@ -1,6 +1,6 @@
 # Zoo Functions
 
-Este projeto consiste no desenvolvimento de uma aplicação NodeJS que fornece uma API para um zoológico. A aplicação deve implementa as seguintes funções:
+Este projeto consiste no desenvolvimento de uma aplicação NodeJS que fornece uma API para um zoológico. A aplicação implementa as seguintes funções:
 
 getAnimals(): Retorna uma lista de todos os animais do zoológico;
 
